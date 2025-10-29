@@ -1,0 +1,4 @@
+requests==2.31.0
+textblob==0.17.1
+langdetect==1.0.9
+google-cloud-translate==3.11.1
